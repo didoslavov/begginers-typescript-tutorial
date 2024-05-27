@@ -1,3 +1,9 @@
+<h1 align="center">Typescript for begginers<h1>
+
+<p align="center">
+<img src="https://github.com/didoslavov/begginers-typescript-tutorial/blob/main/ts.png" />
+</p>
+
 <a href="https://totaltypescript.com/tutorials/beginners-typescript"><img src="https://res.cloudinary.com/total-typescript/image/upload/v1709297838/github--beginngers-typescript_2x_p7vtmw.jpg" alt="beginner typescript tutorial" /></a>
 
 ## Quickstart
